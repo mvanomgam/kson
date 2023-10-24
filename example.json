@@ -1,0 +1,17 @@
+{
+  "firstName": "Mvano",
+  "lastName": "Mgam",
+  "hobbies": ["wrestling", "coding", "bbq"],
+  "age": 35,
+  "hasChildren": true,
+  "children": [
+    {
+      "firstName": "Luvo",
+      "age": 5
+    },
+    {
+      "firstName": "Sanele",
+      "age": 10
+    }
+  ]
+}

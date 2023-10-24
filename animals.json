@@ -1,0 +1,24 @@
+{
+  "Dogs": [
+    {
+      "Name": "Golder",
+      "Breed": "Bulldog",
+      "Age": 1
+    },
+    {
+      "Name": "Rover",
+      "Breed": "Pug",
+      "Age": 5
+    }
+  ],
+  "Owners": [
+    {
+      "Name": "Mvano",
+      "Age": 25
+    },
+    {
+      "Name": "Cecilia",
+      "Age": 30
+    }
+  ]
+}
